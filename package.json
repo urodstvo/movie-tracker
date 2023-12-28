@@ -1,0 +1,23 @@
+{
+  "name": "movie-tracker",
+  "version": "0.0.0",
+  "description": "Web application for tracking movies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urodstvo/movie-tracker.git"
+  },
+  "keywords": [
+    "movie",
+    "tracker"
+  ],
+  "author": "Urodstvo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/urodstvo/movie-tracker/issues"
+  },
+  "homepage": "https://github.com/urodstvo/movie-tracker#readme"
+}
